@@ -30,7 +30,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
   return (
     <>
       <Head>
-        <title>Географический Диктант 2024</title>
+        <title>"Экологический Диктант 2024"</title>
         <meta
           property="og:image"
           content="https://eco-dict.vercel.app/og-image.png"
@@ -71,7 +71,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               className="after:content group relative mb-5 block w-full cursor-zoom-in after:pointer-events-none after:absolute after:inset-0 after:rounded-lg after:shadow-highlight"
             >
               <Image
-                alt="Географический Диктант 2024 Свидетельства"
+                alt="Экологический Диктант 2024 Свидетельства"
                 className="transform rounded-lg brightness-90 transition will-change-auto group-hover:brightness-110"
                 style={{ transform: "translate3d(0, 0, 0)" }}
                 placeholder="blur"

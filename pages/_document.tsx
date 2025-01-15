@@ -8,14 +8,14 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.png" />
           <meta
             name="description"
-            content="Географический Диктант 2024"
+            content="Экологический Диктант 2024"
           />
           <meta property="og:site_name" content="eco-dict.vercel.app" />
           <meta
             property="og:description"
-            content="Географический Диктант 2024"
+            content="Экологический Диктант 2024"
           />
-          <meta property="og:title" content="Географический Диктант 2024" />
+          <meta property="og:title" content="Экологический Диктант 2024" />
         </Head>
         <body className="bg-black antialiased">
           <Main />
